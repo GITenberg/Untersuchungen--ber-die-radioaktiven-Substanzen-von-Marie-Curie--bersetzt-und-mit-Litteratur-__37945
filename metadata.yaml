@@ -24,6 +24,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Marie_Curie
     - http://en.wikipedia.org/wiki/Marie_Curie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37945#Untersuchungen--ber-die-radioaktiven-Substanzen-von-Marie-Curie--bersetzt-und-mit-Litteratur-_
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2011-11-06'
 gutenberg_type: Text
