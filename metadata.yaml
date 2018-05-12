@@ -1,0 +1,43 @@
+_repo: Untersuchungen--ber-die-radioaktiven-Substanzen-von-Marie-Curie--bersetzt-und-mit-Litteratur-__37945
+_version: 0.1.0
+alternative_title: Recherches sur les substances radioactives. German.
+contributor:
+  translator:
+    agent_name: Kaufmann, Walter
+    birthdate: 1871
+    gutenberg_agent_id: '39175'
+    url: http://www.gutenberg.org/2009/agents/39175
+covers:
+- cover_type: archival
+  image_path: 37945-h/images/cover.png
+creator:
+  author:
+    agent_name: Curie, Marie
+    aliases:
+    - Skłodowska, Marya
+    - Curie, Marie Skłodowska
+    birthdate: 1867
+    deathdate: 1934
+    gutenberg_agent_id: '39174'
+    url: http://www.gutenberg.org/2009/agents/39174
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Marie_Curie
+    - http://en.wikipedia.org/wiki/Marie_Curie
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37945'
+  lccn: 09004114
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Radioactivity'
+- !lcsh 'Radioactive substances'
+title: Untersuchungen über die radioaktiven Substanzen von Marie Curie, übersetzt
+  und mit Litteratur-Ergänzungen versehen von W. Kaufmann
+url: http://www.gutenberg.org/ebooks/37945
